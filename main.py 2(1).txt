@@ -1,0 +1,7 @@
+#creating an object of class<font></font>
+s = Bank_Account()<font></font>
+<font></font>
+#calling functions with that class<font></font>
+s.deposit()<font></font>
+s.withdraw()<font></font>
+s.display()
